@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alcapone00
+- 👋 Hey there, how are you
 <!---
 alcapone00/alcapone00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
